@@ -1,4 +1,5 @@
-[submodule "wikidocs"]
-	path = PhysIO/wikidocs
-	url = git@tnurepository.ethz.ch:physio/physio-public.wiki.git
-	branch = master
+## this submodule is not useful for any HGF analyses, and also is not stable, so we want to leave it out of this forked tapas repository
+#[submodule "wikidocs"]
+#	path = PhysIO/wikidocs
+#	url = git@tnurepository.ethz.ch:physio/physio-public.wiki.git
+#	branch = master
